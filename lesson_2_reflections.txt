@@ -1,3 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Reflections: .git file is created. We need to initialize a repo inorder to use version control 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+reflections : staging area is a place where the git takes asnapshot. working directory is the one where all files need not be in git.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Reflection: If there are multiple files edited then staging area can be used to move each edited file into staged area separately and commit separately. hence we can achieve one commit per logical change.
+
+How do the diagrams help you visualize the branch structure?
+
+Reflections: throug the diagrams its easy to remember the structure 
